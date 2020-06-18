@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">stepClassWork6</string>
+    <string name="activity_main_button_task1">Task1</string>
+    <string name="activity_main_button_task2">Task2</string>
+    <string name="activity_main_button_task3">Task3</string>
+
+    <string name="activity_task1_button_task1_second_activity">btn1</string>
+    <string name="activity_task1_button_task1_edit_text_send_hint">Write text</string>
+
+    <string name="activity_task2_button_take_photo">Take photo</string>
+</resources>
